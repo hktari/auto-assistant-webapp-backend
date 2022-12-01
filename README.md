@@ -1,1 +1,1 @@
-The backend for the automate assistant logging app# auto-assistant-webapp-backend
+The backend for the automation assistant web application
